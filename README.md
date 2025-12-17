@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi, I'm Bilal 👋
 
-<!--
-**I-ambilal/I-ambilal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Java Developer learning Object-Oriented Programming and
+Data Structures & Algorithms.
 
-Here are some ideas to get you started:
+###  Skills
+- Java
+- Object-Oriented Programming (OOP)
+- Data Structures & Algorithms (Basic)
+- Git & GitHub
+- IntelliJ IDEA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📘 Practice
+- LeetCode: https://leetcode.com/Bilal_Mahmood
+
+### 🌐 Connect
+- LinkedIn: https://www.linkedin.com/in/muhammad-bilal-mahmood-b8989628b/
